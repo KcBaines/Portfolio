@@ -5,7 +5,7 @@ import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
 import logo from "./img/logo2.png";
-import video from "../src/video/bg-vid.mp4";
+import video from "../src/video/background-vid3.mp4";
 import "./App.css";
 
 function App() {
