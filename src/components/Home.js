@@ -4,7 +4,7 @@ import "../styles/Home.css";
 function Home() {
   return (
     <div className="home-body">
-      <h2>Hello, my name is Casey Baines,</h2>
+      <h2>Hello, my name is Casey Baines</h2>
       <p>
         Welcome to my portfolio! I am an aspiring web developer with a solid
         foundation in HTML, CSS, JavaScript, and other modern technologies.
