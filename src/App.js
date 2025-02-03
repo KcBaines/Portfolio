@@ -5,7 +5,6 @@ import Home from "./components/Home";
 import Portfolio from "./components/Portfolio";
 import Skills from "./components/Skills";
 import logo from "./img/logo2.png";
-import video from "../src/video/background-vid3.mp4";
 import "./App.css";
 
 function App() {
@@ -41,9 +40,6 @@ function App() {
     <div className="App">
       <div class="background"></div>
       <div class="cursor"></div>
-      <video autoPlay loop muted playsInline className="background-video">
-        <source src={video} type="video/mp4" />
-      </video>
       <img src={logo} className="App-logo" alt="logo" />
       <Router>
         <Navbar />

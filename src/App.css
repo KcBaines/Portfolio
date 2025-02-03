@@ -10,6 +10,12 @@
   z-index: -1;
 }
 
+body {
+  background-image: url(./img/bg1.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
 .App-logo {
   width: 13em;
   height: 13em;
